@@ -366,8 +366,8 @@ body {
 }
 
 .featured-app {
-    width: 100%;
-    height: auto;
+    width: auto%;
+    height: 600px;
     border-radius: 15px;
     box-shadow: 0 20px 40px rgba(0,0,0,0.15);
     transition: transform 0.3s ease;
